@@ -8,9 +8,7 @@
 
 - 🌱 I’m currently learning **React, Prisma, next.js, React Testing Library**
 
-- 📫 How to reach me **bryanparisot@hotmail.com**
-
-- ⚡ My future languages **Laravel, Express.js**
+- 📫 How to reach me **contact@bryanparisot.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
