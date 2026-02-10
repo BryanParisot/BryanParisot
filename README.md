@@ -4,9 +4,7 @@
 
 - My website [bryanparisot.com](https://www.bryanparisot.com/)
 
-- 🔭 I’m currently working on [TrainingAPP](https://github.com/BryanParisot/training-app)
-
-- 🌱 I’m currently learning **React, Prisma, next.js, React Testing Library**
+- 🔭 [BurnDownChart](https://bryanparisot.github.io/burndownchart/)
 
 - 📫 How to reach me **contact@bryanparisot.com**
 
